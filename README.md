@@ -1,6 +1,6 @@
 # LLM-Generated Synthetic Spam Benchmark Dataset
 
-**Status:** Research paper under review
+**Status:** Accepted and presented at the 12th International Conference on Information Systems Security and Privacy (ICISSP 2026)
 
 ## Overview
 
@@ -92,12 +92,17 @@ The dataset supports replication of all experimental tracks:
 
 ## Citation
 
+If you use this database in your research, please cite our paper:
+
 ```bibtex
-@misc{llm-synthetic-spam-2025,
-  title={[Paper Under Review]},
-  author={[Anonymous]},
-  year={2025},
-  note={Dataset accompanying research paper under peer review}
+@inproceedings{wang2026synthetic,
+  title={Can synthetic spam beat real-world detectors? Evaluating LLMs' dual role in spam generation and detection},
+  author={Wang, T. and Zhou, N. and Chen, Z.},
+  booktitle={Proceedings of the 12th International Conference on Information Systems Security and Privacy},
+  volume={1},
+  pages={73--84},
+  year={2026},
+  isbn={978-989-758-800-6}
 }
 ```
 
@@ -117,4 +122,4 @@ For questions about this dataset, please open an issue in this repository.
 
 ---
 
-**Note**: Full experimental code, detailed methodology, and comprehensive results will be released upon paper acceptance.
+**Note**: Experimental settings, detailed methodology, and comprehensive results are detailed in our ICISSP 2026 paper.
