@@ -1,7 +1,5 @@
 # LLM-Generated Synthetic Spam Benchmark Dataset
 
-**Status:** Accepted and presented at the 12th International Conference on Information Systems Security and Privacy (ICISSP 2026)
-
 ## Overview
 
 This repository contains a benchmark dataset for evaluating Large Language Models' dual impact on spam detection: their utility for generating synthetic training data and their potential for creating AI-powered spam attacks.
